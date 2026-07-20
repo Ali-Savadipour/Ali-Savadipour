@@ -1,8 +1,19 @@
 <p align="center">
   <a href="https://github.com/Ali-Savadipour">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=1082&text=Hi!%20I'm%20Mohammad%20Ali%20Savadipour" alt="Hi! I&#39;m Mohammad Ali Savadipour" />
-  </a>
-</p>
+
+<div style="
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 54px;
+  font-weight: bold;
+  color: #2f81f7;
+  text-align: center;
+  line-height: 1.2;
+  padding: 10px 0;
+  background: transparent;
+">
+  Hi!<br>
+  I'm Mohammad Ali Savadipour
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Web%20Developer" alt="Typing headlines" />
