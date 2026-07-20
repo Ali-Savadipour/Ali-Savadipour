@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=50&width=300&text=Hi!" alt="Hi!">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=120&width=400&text=Im%20Max&center=true" alt="I'm Mohammad Ali Savadipour">
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=120&width=400&text=I'm%20Mohammad Ali Savadipour&center=true" alt="I'm Mohammad Ali Savadipour">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=Web%20Developer" alt="Typing headlines" />
